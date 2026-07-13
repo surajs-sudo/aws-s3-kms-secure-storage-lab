@@ -132,10 +132,7 @@ aws-s3-kms-secure-storage-lab/
 │
 ├── images/
 │   ├── (All project screenshots)
-│
-└── policy/
-    ├── alice-s3-access-policy.json
-    └── bucket-policy.json
+
 ```
 
 ---
