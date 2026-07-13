@@ -125,7 +125,6 @@ The following implementation sequence was performed during this lab:
 aws-s3-kms-secure-storage-lab/
 │
 ├── README.md
-├── .gitignore
 │
 ├── report/
 │   └── AWS_S3_KMS_Cloud_Security_Lab_Report.pdf
