@@ -179,6 +179,8 @@ Some key stages include:
 
 A detailed implementation report with explanations, screenshots, security validation, and learning outcomes is available in the **report/** folder.
 
+[Download PDF](report/AWS_S3_KMS_Cloud_Security_Lab_Report.pdf)
+
 **Report includes:**
 
 - Executive Summary
